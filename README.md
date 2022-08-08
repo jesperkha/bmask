@@ -11,4 +11,4 @@ func Draw(source string, background string, lineWidth int, threshold int) error
 
 ## Example
 
-<img src=".github/example.png" width="80%">
+<img src="example.png" width="80%">
